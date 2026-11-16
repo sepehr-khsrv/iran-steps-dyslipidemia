@@ -1,0 +1,2 @@
+n,n_analytic_2011,mean_measured,mean_friedewald,mean_difference,sd_difference,loa_lower,loa_upper,pearson_r,pct_measured_ge130,pct_friedewald_ge130,both_ge130,measured_only,friedewald_only,neither,pct_agreement,kappa,kappa_lower,kappa_upper,composite_changes_if_measured,note
+4201.00,4311.00,104.84,111.72,-6.88,20.69,-47.43,33.67,0.82,17.14,27.02,632.00,88.00,503.00,2978.00,85.93,0.60,0.57,0.63,19.00,Unweighted. Difference = measured minus Friedewald. Kappa SE: simple large-sample approximation.

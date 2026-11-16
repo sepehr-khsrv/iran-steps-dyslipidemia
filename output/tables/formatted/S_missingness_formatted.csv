@@ -1,0 +1,61 @@
+round,variable,denominator,n,missing,pct_missing,implausible,pct_implausible,note
+2007,tc,aged 25-64,23907,5140,21.5,38,0.16,NA
+2007,hdl,aged 25-64,23907,5166,21.61,35,0.15,NA
+2007,tg,aged 25-64,23907,5103,21.35,0,0,NA
+2007,tc,lab participants aged 25-64,18811,44,0.23,38,0.2,NA
+2007,hdl,lab participants aged 25-64,18811,70,0.37,35,0.19,NA
+2007,tg,lab participants aged 25-64,18811,7,0.04,0,0,NA
+2007,ldl_measured,lab participants aged 25-64,18811,18811,100,NA,NA,no measured LDL-C in this round
+2007,sex,aged 25-64,23907,6,0.03,NA,NA,NA
+2007,area,aged 25-64,23907,3,0.01,NA,NA,NA
+2007,province31,aged 25-64,23907,0,0,NA,NA,NA
+2007,weight,lab participants aged 25-64,18811,6,0.03,NA,NA,NA
+2007,told_raised_chol,aged 25-64,23907,23907,100,NA,NA,item not asked or not released in this round
+2007,lipid_med,aged 25-64,23907,23907,100,NA,NA,item not asked or not released in this round
+2007,statin,aged 25-64,23907,23907,100,NA,NA,item not asked or not released in this round
+2007,age,all records,30000,0,0,NA,NA,NA
+2011,tc,aged 25-64,7554,2739,36.26,0,0,NA
+2011,hdl,aged 25-64,7554,2740,36.27,1,0.01,NA
+2011,tg,aged 25-64,7554,3183,42.14,0,0,NA
+2011,tc,lab participants aged 25-64,4820,5,0.1,0,0,NA
+2011,hdl,lab participants aged 25-64,4820,6,0.12,1,0.02,NA
+2011,tg,lab participants aged 25-64,4820,449,9.32,0,0,NA
+2011,ldl_measured,lab participants aged 25-64,4820,2,0.04,NA,NA,NA
+2011,sex,aged 25-64,7554,1,0.01,NA,NA,NA
+2011,area,aged 25-64,7554,0,0,NA,NA,NA
+2011,province31,aged 25-64,7554,0,0,NA,NA,NA
+2011,weight,lab participants aged 25-64,4820,1,0.02,NA,NA,NA
+2011,told_raised_chol,aged 25-64,7554,7554,100,NA,NA,item not asked or not released in this round
+2011,lipid_med,aged 25-64,7554,7554,100,NA,NA,item not asked or not released in this round
+2011,statin,aged 25-64,7554,7554,100,NA,NA,item not asked or not released in this round
+2011,age,all records,12235,340,2.78,NA,NA,NA
+2016,tc,aged 25-64,23738,6994,29.46,0,0,NA
+2016,hdl,aged 25-64,23738,7001,29.49,0,0,NA
+2016,tg,aged 25-64,23738,6986,29.43,1,0,NA
+2016,tc,lab participants aged 25-64,16757,13,0.08,0,0,NA
+2016,hdl,lab participants aged 25-64,16757,20,0.12,0,0,NA
+2016,tg,lab participants aged 25-64,16757,5,0.03,1,0.01,NA
+2016,ldl_measured,lab participants aged 25-64,16757,16757,100,NA,NA,no measured LDL-C in this round
+2016,sex,aged 25-64,23738,0,0,NA,NA,NA
+2016,area,aged 25-64,23738,0,0,NA,NA,NA
+2016,province31,aged 25-64,23738,0,0,NA,NA,NA
+2016,weight,lab participants aged 25-64,16757,0,0,NA,NA,NA
+2016,told_raised_chol,aged 25-64,23738,450,1.9,NA,NA,NA
+2016,lipid_med,aged 25-64,23738,23738,100,NA,NA,item not asked or not released in this round
+2016,statin,aged 25-64,23738,454,1.91,NA,NA,NA
+2016,age,all records,30541,0,0,NA,NA,NA
+2021,tc,aged 25-64,21353,5951,27.87,0,0,NA
+2021,hdl,aged 25-64,21353,5956,27.89,0,0,NA
+2021,tg,aged 25-64,21353,5953,27.88,0,0,NA
+2021,tc,lab participants aged 25-64,15402,0,0,0,0,NA
+2021,hdl,lab participants aged 25-64,15402,5,0.03,0,0,NA
+2021,tg,lab participants aged 25-64,15402,2,0.01,0,0,NA
+2021,ldl_measured,lab participants aged 25-64,15402,14349,93.16,NA,NA,NA
+2021,sex,aged 25-64,21353,0,0,NA,NA,NA
+2021,area,aged 25-64,21353,0,0,NA,NA,NA
+2021,province31,aged 25-64,21353,0,0,NA,NA,NA
+2021,weight,lab participants aged 25-64,15402,0,0,NA,NA,NA
+2021,told_raised_chol,aged 25-64,21353,40,0.19,NA,NA,NA
+2021,lipid_med,aged 25-64,21353,40,0.19,NA,NA,NA
+2021,statin,aged 25-64,21353,40,0.19,NA,NA,NA
+2021,age,all records,27874,0,0,NA,NA,NA

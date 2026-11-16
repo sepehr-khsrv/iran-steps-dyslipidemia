@@ -1,0 +1,2 @@
+n_provinces,pearson_r,pearson_lower,pearson_upper,pearson_p,spearman_rho,spearman_p,note
+29,-0.8547881234465967,-0.9299535742211504,-0.7110405811960093,3.581085412715823e-9,-0.8704433497536944,7.565205117707621e-7,"Provinces with a 2007 estimate (Tehran includes Alborz). A negative correlation is expected in part from regression to the mean, because the 2007 estimate enters both quantities."

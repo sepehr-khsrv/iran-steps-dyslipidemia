@@ -1,0 +1,13 @@
+variable,model,link,df,p_interaction
+sex,main effects + year_c:group,log,1,0.0011373465132932651
+sex,fully interacted (group x all terms),log,1,7.740548631031415e-4
+sex,main effects + year_c:group,logit,1,5.770074247180068e-4
+sex,fully interacted (group x all terms),logit,1,1.3908268201310065e-4
+area,main effects + year_c:group,log,1,0.295519393370164
+area,fully interacted (group x all terms),log,1,0.3365568585640555
+area,main effects + year_c:group,logit,1,0.3127652395395059
+area,fully interacted (group x all terms),logit,1,0.2912279424977542
+agegrp,main effects + year_c:group,log,3,0.0028076371422641353
+agegrp,fully interacted (group x all terms),log,3,0.002352387209438037
+agegrp,main effects + year_c:group,logit,3,0.0010150138422073127
+agegrp,fully interacted (group x all terms),logit,3,6.208104764507913e-4

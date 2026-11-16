@@ -1,0 +1,6 @@
+part,round,est_main,se_main,lower_main,upper_main,est_alt,se_alt,lower_alt,upper_alt,se_ratio,note
+national standardised prevalence,2007.00,79.25,0.61,78.03,80.42,79.25,0.61,78.03,80.42,1.00,"main: strata = province x area; alt: strata = province only. For APC rows, se = SE of log-scale year coefficient"
+national standardised prevalence,2011.00,77.27,0.90,75.44,78.99,77.27,0.91,75.43,79.00,1.01,"main: strata = province x area; alt: strata = province only. For APC rows, se = SE of log-scale year coefficient"
+national standardised prevalence,2016.00,76.77,0.44,75.88,77.63,76.77,0.44,75.88,77.63,1.00,"main: strata = province x area; alt: strata = province only. For APC rows, se = SE of log-scale year coefficient"
+national standardised prevalence,2021.00,78.10,0.54,77.03,79.13,78.10,0.54,77.02,79.13,1.00,"main: strata = province x area; alt: strata = province only. For APC rows, se = SE of log-scale year coefficient"
+national APC,NA,-0.13,0.00,-0.26,0.01,-0.13,0.00,-0.26,0.01,1.00,"main: strata = province x area; alt: strata = province only. For APC rows, se = SE of log-scale year coefficient"

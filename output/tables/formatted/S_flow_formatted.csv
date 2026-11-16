@@ -1,0 +1,5 @@
+round,n_file,n_age_25_64,n_not_pregnant,pregnant_excluded,pregnancy_recorded,n_any_lipid,no_lipid_measured,n_all3_valid,lipid_partly_missing_or_implausible,n_analytic,excl_missing_sex,excl_missing_area,excl_missing_province,excl_missing_or_zero_weight,out_of_age_or_missing_age
+2007,30000,23907,23661,246,yes (women),18627,5034,18513,114,18507,5,1,0,0,6093
+2011,12235,7554,7459,95,yes (women),4768,2691,4312,456,4311,1,0,0,0,4681
+2016,30541,23738,23402,336,yes (women),16521,6881,16487,34,16487,0,0,0,0,6803
+2021,27874,21353,21353,0,yes (women),15402,5951,15397,5,15397,0,0,0,0,6521

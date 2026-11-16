@@ -1,0 +1,24 @@
+part,analysis,outcome,sex,round,type,se,deff,n,contrast,from,to,p,level,beta,se_beta,p_trend,p_interaction_sex,est_95ci,apc_95ci
+prevalence,(c) composite with HDL-C < 40 for both sexes,dys_hdl40,all,2007.00,standardised,0.73,4.67,18507.00,NA,NA,NA,NA,NA,NA,NA,NA,NA,"70.2 (68.7, 71.6)",NA
+prevalence,(c) composite with HDL-C < 40 for both sexes,dys_hdl40,all,2011.00,standardised,1.00,1.99,4311.00,NA,NA,NA,NA,NA,NA,NA,NA,NA,"68.6 (66.6, 70.5)",NA
+prevalence,(c) composite with HDL-C < 40 for both sexes,dys_hdl40,all,2016.00,standardised,0.48,1.64,16487.00,NA,NA,NA,NA,NA,NA,NA,NA,NA,"64.0 (63.1, 65.0)",NA
+prevalence,(c) composite with HDL-C < 40 for both sexes,dys_hdl40,all,2021.00,standardised,0.60,2.45,15397.00,NA,NA,NA,NA,NA,NA,NA,NA,NA,"65.4 (64.3, 66.6)",NA
+prevalence,(c) composite with HDL-C < 40 for both sexes,dys_hdl40,men,2007.00,standardised,0.97,4.34,8890.00,NA,NA,NA,NA,NA,NA,NA,NA,NA,"74.1 (72.1, 75.9)",NA
+prevalence,(c) composite with HDL-C < 40 for both sexes,dys_hdl40,women,2007.00,standardised,0.99,4.18,9617.00,NA,NA,NA,NA,NA,NA,NA,NA,NA,"66.2 (64.2, 68.1)",NA
+prevalence,(c) composite with HDL-C < 40 for both sexes,dys_hdl40,men,2011.00,standardised,1.47,1.79,1673.00,NA,NA,NA,NA,NA,NA,NA,NA,NA,"71.8 (68.9, 74.6)",NA
+prevalence,(c) composite with HDL-C < 40 for both sexes,dys_hdl40,women,2011.00,standardised,1.29,1.93,2638.00,NA,NA,NA,NA,NA,NA,NA,NA,NA,"65.2 (62.6, 67.7)",NA
+prevalence,(c) composite with HDL-C < 40 for both sexes,dys_hdl40,men,2016.00,standardised,0.64,1.66,7567.00,NA,NA,NA,NA,NA,NA,NA,NA,NA,"74.6 (73.3, 75.8)",NA
+prevalence,(c) composite with HDL-C < 40 for both sexes,dys_hdl40,women,2016.00,standardised,0.68,1.65,8920.00,NA,NA,NA,NA,NA,NA,NA,NA,NA,"53.2 (51.9, 54.6)",NA
+prevalence,(c) composite with HDL-C < 40 for both sexes,dys_hdl40,men,2021.00,standardised,0.85,2.47,6468.00,NA,NA,NA,NA,NA,NA,NA,NA,NA,"74.8 (73.1, 76.4)",NA
+prevalence,(c) composite with HDL-C < 40 for both sexes,dys_hdl40,women,2021.00,standardised,0.83,2.49,8929.00,NA,NA,NA,NA,NA,NA,NA,NA,NA,"55.8 (54.2, 57.5)",NA
+change,(c) composite with HDL-C < 40 for both sexes,dys_hdl40,NA,NA,NA,0.94,NA,NA,"change, all",2007.00,2021.00,<0.001,NA,NA,NA,NA,NA,"-4.7 (-6.6, -2.9)",NA
+change,(c) composite with HDL-C < 40 for both sexes,dys_hdl40,NA,NA,NA,1.29,NA,NA,"change, men",2007.00,2021.00,0.564,NA,NA,NA,NA,NA,"0.7 (-1.8, 3.3)",NA
+change,(c) composite with HDL-C < 40 for both sexes,dys_hdl40,NA,NA,NA,1.29,NA,NA,"change, women",2007.00,2021.00,<0.001,NA,NA,NA,NA,NA,"-10.3 (-12.8, -7.8)",NA
+change,(c) composite with HDL-C < 40 for both sexes,dys_hdl40,NA,NA,NA,1.76,NA,NA,"difference in change, women minus men",2007.00,2021.00,<0.001,NA,NA,NA,NA,NA,"-11.1 (-14.5, -7.6)",NA
+change,(c) composite with HDL-C < 40 for both sexes,dys_hdl40,NA,NA,NA,0.77,NA,NA,"change, all",2016.00,2021.00,0.067,NA,NA,NA,NA,NA,"1.4 (-0.1, 2.9)",NA
+change,(c) composite with HDL-C < 40 for both sexes,dys_hdl40,NA,NA,NA,1.07,NA,NA,"change, men",2016.00,2021.00,0.838,NA,NA,NA,NA,NA,"0.2 (-1.9, 2.3)",NA
+change,(c) composite with HDL-C < 40 for both sexes,dys_hdl40,NA,NA,NA,1.07,NA,NA,"change, women",2016.00,2021.00,0.015,NA,NA,NA,NA,NA,"2.6 (0.5, 4.7)",NA
+change,(c) composite with HDL-C < 40 for both sexes,dys_hdl40,NA,NA,NA,1.49,NA,NA,"difference in change, women minus men",2016.00,2021.00,0.107,NA,NA,NA,NA,NA,"2.4 (-0.5, 5.3)",NA
+trend,(c) composite with HDL-C < 40 for both sexes,dys_hdl40,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,all,-0.01,0.00,<0.001,<0.001,NA,"-0.64 (-0.82, -0.46)"
+trend,(c) composite with HDL-C < 40 for both sexes,dys_hdl40,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,men,0.00,0.00,0.239,<0.001,NA,"0.14 (-0.09, 0.37)"
+trend,(c) composite with HDL-C < 40 for both sexes,dys_hdl40,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,women,-0.01,0.00,<0.001,<0.001,NA,"-1.46 (-1.72, -1.20)"

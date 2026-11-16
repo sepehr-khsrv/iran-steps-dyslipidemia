@@ -1,0 +1,22 @@
+# Participant-level data and anything derived from it are never committed.
+# Survey files, census tables and third-party survey documents (see README.md, "Input files"):
+/data_raw
+# Harmonised participant-level file written by Stage 1:
+data_derived/analytic.*
+# Intermediate R objects written by Stage 2 (they hold participant-level records):
+output/rds/
+# Run logs (they print record-level checks):
+output/logs/
+.Rhistory
+.RData
+.Rproj.user/
+.DS_Store
+# Participant-level files that the preprocessing scripts read or write, wherever they are put:
+*.dta
+steps86long.xlsx
+steps86subset_F.xlsx
+steps86_weight_standard*.csv
+Steps90_weighted.csv
+# Census tables of the Statistical Centre of Iran, if downloaded for the preprocessing scripts (not redistributed here):
+preprocessing/census_2006/files/
+preprocessing/census_2011/90/

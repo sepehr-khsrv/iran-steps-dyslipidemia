@@ -1,0 +1,10 @@
+analysis,level,outcome,df,p_nonlinearity
+national,all,dys,2.00,0.006
+sex,men,dys,2.00,0.348
+sex,women,dys,2.00,<0.001
+area,rural,dys,2.00,0.018
+area,urban,dys,2.00,0.066
+agegrp,25-34,dys,2.00,0.193
+agegrp,35-44,dys,2.00,0.089
+agegrp,45-54,dys,2.00,0.075
+agegrp,55-64,dys,2.00,0.024

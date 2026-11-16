@@ -1,0 +1,5 @@
+round,n,n_strata,n_clusters_unique,n_psu_variance,n_clusters_spanning_strata,n_lonely_strata,sum_weights,psu_definition
+2007,18507,58,1432,1491,59,0,30187900.134948745,province x i4partici1
+2011,4311,59,641,675,34,2,33546998.95407901,county x cluster (i08)
+2016,16487,60,2850,2866,16,0,44735829.82397461,prefix of code
+2021,15397,62,2899,2899,0,0,41301939.399664685,clusterid

@@ -1,0 +1,5 @@
+round,psu_definition,n,strata,clusters_unique,psus_in_variance,clusters_spanning_urban_rural,strata_with_one_psu,sum_of_weights
+2007,province x i4partici1,"18,507",58,"1,432","1,491",59,0,"30,187,900"
+2011,county x cluster (i08)," 4,311",59,  641,  675,34,2,"33,546,999"
+2016,prefix of code,"16,487",60,"2,850","2,866",16,0,"44,735,830"
+2021,clusterid,"15,397",62,"2,899","2,899",0,0,"41,301,939"

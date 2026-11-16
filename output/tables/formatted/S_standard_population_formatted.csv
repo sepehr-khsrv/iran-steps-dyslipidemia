@@ -1,0 +1,37 @@
+standard,agegrp,sex,area,population,proportion
+national (16 cells),25-34,men,rural,2136402,0.0486
+national (16 cells),25-34,men,urban,6342786,0.1442
+national (16 cells),25-34,women,rural,1928850,0.0439
+national (16 cells),25-34,women,urban,6385544,0.1452
+national (16 cells),35-44,men,rural,1517982,0.0345
+national (16 cells),35-44,men,urban,4864681,0.1106
+national (16 cells),35-44,women,rural,1450671,0.0330
+national (16 cells),35-44,women,urban,4715476,0.1072
+national (16 cells),45-54,men,rural,978553,0.0222
+national (16 cells),45-54,men,urban,3448632,0.0784
+national (16 cells),45-54,women,rural,993362,0.0226
+national (16 cells),45-54,women,urban,3333073,0.0758
+national (16 cells),55-64,men,rural,674109,0.0153
+national (16 cells),55-64,men,urban,2246361,0.0511
+national (16 cells),55-64,women,rural,749702,0.0170
+national (16 cells),55-64,women,urban,2218999,0.0504
+sex-specific (age x area),25-34,both,rural,4065252,0.0924
+sex-specific (age x area),25-34,both,urban,12728330,0.2894
+sex-specific (age x area),35-44,both,rural,2968653,0.0675
+sex-specific (age x area),35-44,both,urban,9580157,0.2178
+sex-specific (age x area),45-54,both,rural,1971915,0.0448
+sex-specific (age x area),45-54,both,urban,6781705,0.1542
+sex-specific (age x area),55-64,both,rural,1423811,0.0324
+sex-specific (age x area),55-64,both,urban,4465360,0.1015
+area-specific and provincial (age x sex),25-34,men,both,8479188,0.1928
+area-specific and provincial (age x sex),25-34,women,both,8314394,0.1890
+area-specific and provincial (age x sex),35-44,men,both,6382663,0.1451
+area-specific and provincial (age x sex),35-44,women,both,6166147,0.1402
+area-specific and provincial (age x sex),45-54,men,both,4427185,0.1007
+area-specific and provincial (age x sex),45-54,women,both,4326435,0.0984
+area-specific and provincial (age x sex),55-64,men,both,2920470,0.0664
+area-specific and provincial (age x sex),55-64,women,both,2968701,0.0675
+age-group-specific (sex x area),all,men,rural,5307046,0.1207
+age-group-specific (sex x area),all,men,urban,16902460,0.3843
+age-group-specific (sex x area),all,women,rural,5122585,0.1165
+age-group-specific (sex x area),all,women,urban,16653092,0.3786

@@ -1,0 +1,124 @@
+round,raw_var,raw_code,census_code,source_label,province31,province31_code,confirmed_by,note
+2007,i4particip,1,3,Azerbaijan_East,East Azerbaijan,3,crosswalk; Total83 2004; urban share,Crosswalk confirmed by Total83 (2004) Provincecode vs labelled province_census
+2007,i4particip,2,4,Azerbaijan_West,West Azerbaijan,4,crosswalk; Total83 2004; urban share,Crosswalk confirmed by Total83 (2004) Provincecode vs labelled province_census
+2007,i4particip,3,24,Ardabil,Ardabil,24,crosswalk; Total83 2004; urban share,Crosswalk confirmed by Total83 (2004) Provincecode vs labelled province_census
+2007,i4particip,4,10,Isfahan,Isfahan,10,crosswalk; Total83 2004; urban share,Crosswalk confirmed by Total83 (2004) Provincecode vs labelled province_census
+2007,i4particip,5,16,Ilam,Ilam,16,crosswalk; Total83 2004; urban share,Crosswalk confirmed by Total83 (2004) Provincecode vs labelled province_census
+2007,i4particip,6,18,Bushehr,Bushehr,18,crosswalk; Total83 2004; urban share,Crosswalk confirmed by Total83 (2004) Provincecode vs labelled province_census
+2007,i4particip,7,23,Tehran,Tehran,23,crosswalk; Total83 2004; urban share,2007 Tehran includes the later Alborz province (created 2010); Alborz cannot be separated (see decisions_log)
+2007,i4particip,8,14,ChaharM&Bakhtiari,Chaharmahal and Bakhtiari,14,crosswalk; Total83 2004; urban share,Crosswalk confirmed by Total83 (2004) Provincecode vs labelled province_census
+2007,i4particip,9,9,Khorasan_Razavi,Razavi Khorasan,9,crosswalk; Total83 2004; urban share,Crosswalk confirmed by Total83 (2004) Provincecode vs labelled province_census
+2007,i4particip,10,6,Khuzestan,Khuzestan,6,crosswalk; Total83 2004; urban share,Crosswalk confirmed by Total83 (2004) Provincecode vs labelled province_census
+2007,i4particip,11,19,Zanjan,Zanjan,19,crosswalk; Total83 2004; urban share,Crosswalk confirmed by Total83 (2004) Provincecode vs labelled province_census
+2007,i4particip,12,20,Semnan,Semnan,20,crosswalk; Total83 2004; urban share,Crosswalk confirmed by Total83 (2004) Provincecode vs labelled province_census
+2007,i4particip,13,11,Sistan&Baluchistan,Sistan and Baluchestan,11,crosswalk; Total83 2004; urban share,Crosswalk confirmed by Total83 (2004) Provincecode vs labelled province_census
+2007,i4particip,14,7,Fars,Fars,7,crosswalk; Total83 2004; urban share,Crosswalk confirmed by Total83 (2004) Provincecode vs labelled province_census
+2007,i4particip,15,26,Qazvin,Qazvin,26,crosswalk; Total83 2004; urban share,Crosswalk confirmed by Total83 (2004) Provincecode vs labelled province_census
+2007,i4particip,16,25,Qom,Qom,25,crosswalk; Total83 2004; urban share,Crosswalk confirmed by Total83 (2004) Provincecode vs labelled province_census
+2007,i4particip,17,12,Kurdistan,Kurdistan,12,crosswalk; Total83 2004; urban share,Crosswalk confirmed by Total83 (2004) Provincecode vs labelled province_census
+2007,i4particip,18,8,Kerman,Kerman,8,crosswalk; Total83 2004; urban share,Crosswalk confirmed by Total83 (2004) Provincecode vs labelled province_census
+2007,i4particip,19,5,Kermanshah,Kermanshah,5,crosswalk; Total83 2004; urban share,Crosswalk confirmed by Total83 (2004) Provincecode vs labelled province_census
+2007,i4particip,20,17,Kohgiluyeh&BoyerA,Kohgiluyeh and Boyer-Ahmad,17,crosswalk; Total83 2004; urban share,Crosswalk confirmed by Total83 (2004) Provincecode vs labelled province_census
+2007,i4particip,21,27,Golestan,Golestan,27,crosswalk; Total83 2004; urban share,Crosswalk confirmed by Total83 (2004) Provincecode vs labelled province_census
+2007,i4particip,22,1,Gilan,Gilan,1,crosswalk; Total83 2004; urban share,Crosswalk confirmed by Total83 (2004) Provincecode vs labelled province_census
+2007,i4particip,23,15,Lorestan,Lorestan,15,crosswalk; Total83 2004; urban share,Crosswalk confirmed by Total83 (2004) Provincecode vs labelled province_census
+2007,i4particip,24,2,Mazandaran,Mazandaran,2,crosswalk; Total83 2004; urban share,Crosswalk confirmed by Total83 (2004) Provincecode vs labelled province_census
+2007,i4particip,25,0,Markazi,Markazi,0,crosswalk; Total83 2004; urban share,Crosswalk confirmed by Total83 (2004) Provincecode vs labelled province_census
+2007,i4particip,26,22,Hormozgan,Hormozgan,22,crosswalk; Total83 2004; urban share,Crosswalk confirmed by Total83 (2004) Provincecode vs labelled province_census
+2007,i4particip,27,13,Hamadan,Hamadan,13,crosswalk; Total83 2004; urban share,Crosswalk confirmed by Total83 (2004) Provincecode vs labelled province_census
+2007,i4particip,28,21,Yazd,Yazd,21,crosswalk; Total83 2004; urban share,Crosswalk confirmed by Total83 (2004) Provincecode vs labelled province_census
+2007,i4particip,29,29,Khorasan_South,South Khorasan,29,crosswalk; urban share,Code not present in Total83 (2004); mapping from authors' crosswalk and urban-share check
+2007,i4particip,30,28,Khorasan_North,North Khorasan,28,crosswalk; urban share,Code not present in Total83 (2004); mapping from authors' crosswalk and urban-share check
+2011,province_census,0,0,Markazi,Markazi,0,Os90.xlsx; district names (x1d labels),Census code; label from Os90.xlsx
+2011,province_census,1,1,Gilan,Gilan,1,Os90.xlsx; district names (x1d labels),Census code; label from Os90.xlsx
+2011,province_census,2,2,Mazandaran,Mazandaran,2,Os90.xlsx; district names (x1d labels),Census code; label from Os90.xlsx
+2011,province_census,3,3,"Azerbaijan, East",East Azerbaijan,3,Os90.xlsx; district names (x1d labels),Census code; label from Os90.xlsx
+2011,province_census,4,4,"Azerbaijan, West",West Azerbaijan,4,Os90.xlsx; district names (x1d labels),Census code; label from Os90.xlsx
+2011,province_census,5,5,Kermanshah,Kermanshah,5,Os90.xlsx; district names (x1d labels),Census code; label from Os90.xlsx
+2011,province_census,6,6,Khuzestan,Khuzestan,6,Os90.xlsx; district names (x1d labels),Census code; label from Os90.xlsx
+2011,province_census,7,7,Fars,Fars,7,Os90.xlsx; district names (x1d labels),Census code; label from Os90.xlsx
+2011,province_census,8,8,Kerman,Kerman,8,Os90.xlsx; district names (x1d labels),Census code; label from Os90.xlsx
+2011,province_census,9,9,"Khorasan, Razavi",Razavi Khorasan,9,Os90.xlsx; district names (x1d labels),Census code; label from Os90.xlsx
+2011,province_census,10,10,Isfahan,Isfahan,10,Os90.xlsx; district names (x1d labels),Census code; label from Os90.xlsx
+2011,province_census,11,11,Sistan and Baluchistan,Sistan and Baluchestan,11,Os90.xlsx; district names (x1d labels),Census code; label from Os90.xlsx
+2011,province_census,12,12,Kordestan,Kurdistan,12,Os90.xlsx; district names (x1d labels),Census code; label from Os90.xlsx
+2011,province_census,13,13,Hamadan,Hamadan,13,Os90.xlsx; district names (x1d labels),Census code; label from Os90.xlsx
+2011,province_census,14,14,Chahar Mahaal and Bakhtiari,Chaharmahal and Bakhtiari,14,Os90.xlsx; district names (x1d labels),Census code; label from Os90.xlsx
+2011,province_census,15,15,Lorestan,Lorestan,15,Os90.xlsx; district names (x1d labels),Census code; label from Os90.xlsx
+2011,province_census,16,16,Ilam,Ilam,16,Os90.xlsx; district names (x1d labels),Census code; label from Os90.xlsx
+2011,province_census,17,17,Kohgiluyeh and Boyer-Ahmad,Kohgiluyeh and Boyer-Ahmad,17,Os90.xlsx; district names (x1d labels),Census code; label from Os90.xlsx
+2011,province_census,18,18,Bushehr,Bushehr,18,Os90.xlsx; district names (x1d labels),Census code; label from Os90.xlsx
+2011,province_census,19,19,Zanjan,Zanjan,19,Os90.xlsx; district names (x1d labels),Census code; label from Os90.xlsx
+2011,province_census,20,20,Semnan,Semnan,20,Os90.xlsx; district names (x1d labels),Census code; label from Os90.xlsx
+2011,province_census,21,21,Yazd,Yazd,21,Os90.xlsx; district names (x1d labels),Census code; label from Os90.xlsx
+2011,province_census,22,22,Hormozgan,Hormozgan,22,Os90.xlsx; district names (x1d labels),Census code; label from Os90.xlsx
+2011,province_census,23,23,Tehran,Tehran,23,Os90.xlsx; district names (x1d labels),Census code; label from Os90.xlsx
+2011,province_census,24,24,Ardabil,Ardabil,24,Os90.xlsx; district names (x1d labels),Census code; label from Os90.xlsx
+2011,province_census,25,25,Qom,Qom,25,Os90.xlsx; district names (x1d labels),Census code; label from Os90.xlsx
+2011,province_census,26,26,Qazvin,Qazvin,26,Os90.xlsx; district names (x1d labels),Census code; label from Os90.xlsx
+2011,province_census,27,27,Golestan,Golestan,27,Os90.xlsx; district names (x1d labels),Census code; label from Os90.xlsx
+2011,province_census,28,28,"Khorasan, North",North Khorasan,28,Os90.xlsx; district names (x1d labels),Census code; label from Os90.xlsx
+2011,province_census,29,29,"Khorasan, South",South Khorasan,29,Os90.xlsx; district names (x1d labels),Census code; label from Os90.xlsx
+2011,province_census,30,30,Alborz,Alborz,30,Os90.xlsx; district names (x1d labels),Census code; label from Os90.xlsx
+2016,i07,0,0,markazi,Markazi,0,Stata value label; Metadata 1395.2 p8,Stata value label
+2016,i07,1,1,gilan,Gilan,1,Stata value label; Metadata 1395.2 p8,Stata value label
+2016,i07,2,2,mazandaran,Mazandaran,2,Stata value label; Metadata 1395.2 p8,Stata value label
+2016,i07,3,3,azar_shargh,East Azerbaijan,3,Stata value label; Metadata 1395.2 p8,Stata value label
+2016,i07,4,4,azar_gharb,West Azerbaijan,4,Stata value label; Metadata 1395.2 p8,Stata value label
+2016,i07,5,5,kermanshah,Kermanshah,5,Stata value label; Metadata 1395.2 p8,Stata value label
+2016,i07,6,6,khuzestan,Khuzestan,6,Stata value label; Metadata 1395.2 p8,Stata value label
+2016,i07,7,7,fars,Fars,7,Stata value label; Metadata 1395.2 p8,Stata value label
+2016,i07,8,8,kerman,Kerman,8,Stata value label; Metadata 1395.2 p8,Stata value label
+2016,i07,9,9,khorasan_razavi,Razavi Khorasan,9,Stata value label; Metadata 1395.2 p8,Stata value label
+2016,i07,10,10,isfahan,Isfahan,10,Stata value label; Metadata 1395.2 p8,Stata value label
+2016,i07,11,11,sistan,Sistan and Baluchestan,11,Stata value label; Metadata 1395.2 p8,Stata value label
+2016,i07,12,12,kordestan,Kurdistan,12,Stata value label; Metadata 1395.2 p8,Stata value label
+2016,i07,13,13,hamedan,Hamadan,13,Stata value label; Metadata 1395.2 p8,Stata value label
+2016,i07,14,14,chahar_mahal,Chaharmahal and Bakhtiari,14,Stata value label; Metadata 1395.2 p8,Stata value label
+2016,i07,15,15,lorestan,Lorestan,15,Stata value label; Metadata 1395.2 p8,Stata value label
+2016,i07,16,16,ilam,Ilam,16,Stata value label; Metadata 1395.2 p8,Stata value label
+2016,i07,17,17,kohkiluye,Kohgiluyeh and Boyer-Ahmad,17,Stata value label; Metadata 1395.2 p8,Stata value label
+2016,i07,18,18,boushehr,Bushehr,18,Stata value label; Metadata 1395.2 p8,Stata value label
+2016,i07,19,19,zanjan,Zanjan,19,Stata value label; Metadata 1395.2 p8,Stata value label
+2016,i07,20,20,semnan,Semnan,20,Stata value label; Metadata 1395.2 p8,Stata value label
+2016,i07,21,21,yazd,Yazd,21,Stata value label; Metadata 1395.2 p8,Stata value label
+2016,i07,22,22,hormozgan,Hormozgan,22,Stata value label; Metadata 1395.2 p8,Stata value label
+2016,i07,23,23,tehran,Tehran,23,Stata value label; Metadata 1395.2 p8,Stata value label
+2016,i07,24,24,ardebil,Ardabil,24,Stata value label; Metadata 1395.2 p8,Stata value label
+2016,i07,25,25,qom,Qom,25,Stata value label; Metadata 1395.2 p8,Qom did not take part in 2016 (no records)
+2016,i07,26,26,qazvin,Qazvin,26,Stata value label; Metadata 1395.2 p8,Stata value label
+2016,i07,27,27,golestan,Golestan,27,Stata value label; Metadata 1395.2 p8,Stata value label
+2016,i07,28,28,khorasan_north,North Khorasan,28,Stata value label; Metadata 1395.2 p8,Stata value label
+2016,i07,29,29,khorasan_south,South Khorasan,29,Stata value label; Metadata 1395.2 p8,Stata value label
+2016,i07,30,30,Alborz,Alborz,30,Stata value label; Metadata 1395.2 p8,Stata value label
+2021,i07,0,0,Markazi,Markazi,0,Stata value label; Q Code 1400 codebook,Stata value label
+2021,i07,1,1,Gilan,Gilan,1,Stata value label; Q Code 1400 codebook,Stata value label
+2021,i07,2,2,Mazandaran,Mazandaran,2,Stata value label; Q Code 1400 codebook,Stata value label
+2021,i07,3,3,"Azerbaijan, East",East Azerbaijan,3,Stata value label; Q Code 1400 codebook,Stata value label
+2021,i07,4,4,"Azerbaijan, West",West Azerbaijan,4,Stata value label; Q Code 1400 codebook,Stata value label
+2021,i07,5,5,Kermanshah,Kermanshah,5,Stata value label; Q Code 1400 codebook,Stata value label
+2021,i07,6,6,Khuzestan,Khuzestan,6,Stata value label; Q Code 1400 codebook,Stata value label
+2021,i07,7,7,Fars,Fars,7,Stata value label; Q Code 1400 codebook,Stata value label
+2021,i07,8,8,Kerman,Kerman,8,Stata value label; Q Code 1400 codebook,Stata value label
+2021,i07,9,9,"Khorasan, Razavi",Razavi Khorasan,9,Stata value label; Q Code 1400 codebook,Stata value label
+2021,i07,10,10,Isfahan,Isfahan,10,Stata value label; Q Code 1400 codebook,Stata value label
+2021,i07,11,11,Sistan and Baluchistan,Sistan and Baluchestan,11,Stata value label; Q Code 1400 codebook,Stata value label
+2021,i07,12,12,Kurdistan,Kurdistan,12,Stata value label; Q Code 1400 codebook,Stata value label
+2021,i07,13,13,Hamadan,Hamadan,13,Stata value label; Q Code 1400 codebook,Stata value label
+2021,i07,14,14,Chahar Mahaal and Bakhtiari,Chaharmahal and Bakhtiari,14,Stata value label; Q Code 1400 codebook,Stata value label
+2021,i07,15,15,Lorestan,Lorestan,15,Stata value label; Q Code 1400 codebook,Stata value label
+2021,i07,16,16,Ilam,Ilam,16,Stata value label; Q Code 1400 codebook,Stata value label
+2021,i07,17,17,Kohgiluyeh and Boyer-Ahmad,Kohgiluyeh and Boyer-Ahmad,17,Stata value label; Q Code 1400 codebook,Stata value label
+2021,i07,18,18,Bushehr,Bushehr,18,Stata value label; Q Code 1400 codebook,Stata value label
+2021,i07,19,19,Zanjan,Zanjan,19,Stata value label; Q Code 1400 codebook,Stata value label
+2021,i07,20,20,Semnan,Semnan,20,Stata value label; Q Code 1400 codebook,Stata value label
+2021,i07,21,21,Yazd,Yazd,21,Stata value label; Q Code 1400 codebook,Stata value label
+2021,i07,22,22,Hormozgan,Hormozgan,22,Stata value label; Q Code 1400 codebook,Stata value label
+2021,i07,23,23,Tehran,Tehran,23,Stata value label; Q Code 1400 codebook,Stata value label
+2021,i07,24,24,Ardabil,Ardabil,24,Stata value label; Q Code 1400 codebook,Stata value label
+2021,i07,25,25,Qom,Qom,25,Stata value label; Q Code 1400 codebook,Stata value label
+2021,i07,26,26,Qazvin,Qazvin,26,Stata value label; Q Code 1400 codebook,Stata value label
+2021,i07,27,27,Golestan,Golestan,27,Stata value label; Q Code 1400 codebook,Stata value label
+2021,i07,28,28,"Khorasan, North",North Khorasan,28,Stata value label; Q Code 1400 codebook,Stata value label
+2021,i07,29,29,"Khorasan, South",South Khorasan,29,Stata value label; Q Code 1400 codebook,Stata value label
+2021,i07,30,30,Alborz,Alborz,30,Stata value label; Q Code 1400 codebook,Stata value label

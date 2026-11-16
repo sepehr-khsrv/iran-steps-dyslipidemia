@@ -1,0 +1,79 @@
+measure,analysis,level,from,to,est_95ci,p
+difference in standardised prevalence (percentage points),national,all,2007,2011,"-2.0 (-4.1, 0.2)",0.069
+difference in standardised prevalence (percentage points),national,all,2011,2016,"-0.5 (-2.5, 1.5)",0.620
+difference in standardised prevalence (percentage points),national,all,2016,2021,"1.3 (0.0, 2.7)",0.056
+difference in standardised prevalence (percentage points),sex,men,2007,2011,"-2.2 (-5.7, 1.2)",0.204
+difference in standardised prevalence (percentage points),sex,men,2011,2016,"2.8 (-0.4, 5.9)",0.086
+difference in standardised prevalence (percentage points),sex,men,2016,2021,"0.2 (-1.9, 2.3)",0.838
+difference in standardised prevalence (percentage points),sex,women,2007,2011,"-1.7 (-4.2, 0.7)",0.172
+difference in standardised prevalence (percentage points),sex,women,2011,2016,"-3.8 (-6.1, -1.5)",0.001
+difference in standardised prevalence (percentage points),sex,women,2016,2021,"2.5 (0.8, 4.1)",0.004
+difference in standardised prevalence (percentage points),area,rural,2007,2011,"-0.1 (-3.8, 3.5)",0.939
+difference in standardised prevalence (percentage points),area,rural,2011,2016,"-2.1 (-5.6, 1.4)",0.235
+difference in standardised prevalence (percentage points),area,rural,2016,2021,"3.1 (0.9, 5.2)",0.005
+difference in standardised prevalence (percentage points),area,urban,2007,2011,"-2.5 (-5.1, 0.0)",0.053
+difference in standardised prevalence (percentage points),area,urban,2011,2016,"0.0 (-2.4, 2.3)",0.987
+difference in standardised prevalence (percentage points),area,urban,2016,2021,"0.8 (-0.9, 2.5)",0.356
+difference in standardised prevalence (percentage points),agegrp,25-34,2007,2011,"0.5 (-3.6, 4.6)",0.827
+difference in standardised prevalence (percentage points),agegrp,25-34,2011,2016,"-0.3 (-4.0, 3.3)",0.854
+difference in standardised prevalence (percentage points),agegrp,25-34,2016,2021,"2.5 (-0.1, 5.0)",0.061
+difference in standardised prevalence (percentage points),agegrp,35-44,2007,2011,"-4.8 (-8.8, -0.7)",0.021
+difference in standardised prevalence (percentage points),agegrp,35-44,2011,2016,"1.9 (-2.0, 5.7)",0.341
+difference in standardised prevalence (percentage points),agegrp,35-44,2016,2021,"0.3 (-2.0, 2.7)",0.791
+difference in standardised prevalence (percentage points),agegrp,45-54,2007,2011,"-3.2 (-7.0, 0.6)",0.104
+difference in standardised prevalence (percentage points),agegrp,45-54,2011,2016,"-1.1 (-4.7, 2.6)",0.577
+difference in standardised prevalence (percentage points),agegrp,45-54,2016,2021,"0.9 (-1.5, 3.3)",0.450
+difference in standardised prevalence (percentage points),agegrp,55-64,2007,2011,"-1.0 (-3.9, 1.8)",0.471
+difference in standardised prevalence (percentage points),agegrp,55-64,2011,2016,"-5.3 (-8.1, -2.5)",<0.001
+difference in standardised prevalence (percentage points),agegrp,55-64,2016,2021,"0.8 (-1.8, 3.5)",0.540
+difference in change (percentage points),sex,women minus men,2007,2011,"0.5 (-3.7, 4.8)",0.809
+difference in change (percentage points),sex,women minus men,2011,2016,"-6.6 (-10.4, -2.7)",<0.001
+difference in change (percentage points),sex,women minus men,2016,2021,"2.2 (-0.4, 4.9)",0.094
+difference in change (percentage points),area,urban minus rural,2007,2011,"-2.4 (-6.9, 2.1)",0.298
+difference in change (percentage points),area,urban minus rural,2011,2016,"2.1 (-2.1, 6.3)",0.330
+difference in change (percentage points),area,urban minus rural,2016,2021,"-2.3 (-5.0, 0.4)",0.100
+difference in change (percentage points),agegrp,35-44 minus 25-34,2007,2011,"-5.2 (-10.9, 0.4)",0.068
+difference in change (percentage points),agegrp,35-44 minus 25-34,2011,2016,"2.2 (-2.9, 7.4)",0.400
+difference in change (percentage points),agegrp,35-44 minus 25-34,2016,2021,"-2.1 (-5.6, 1.3)",0.222
+difference in change (percentage points),agegrp,45-54 minus 25-34,2007,2011,"-3.6 (-9.2, 2.0)",0.206
+difference in change (percentage points),agegrp,45-54 minus 25-34,2011,2016,"-0.7 (-5.9, 4.5)",0.789
+difference in change (percentage points),agegrp,45-54 minus 25-34,2016,2021,"-1.6 (-5.0, 1.9)",0.373
+difference in change (percentage points),agegrp,55-64 minus 25-34,2007,2011,"-1.5 (-6.7, 3.7)",0.574
+difference in change (percentage points),agegrp,55-64 minus 25-34,2011,2016,"-5.0 (-9.6, -0.4)",0.032
+difference in change (percentage points),agegrp,55-64 minus 25-34,2016,2021,"-1.6 (-5.3, 2.0)",0.376
+adjusted prevalence ratio (factor(year) model),national,all,2007,2011,"0.977 (0.950, 1.005)",0.102
+adjusted prevalence ratio (factor(year) model),national,all,2011,2016,"0.988 (0.964, 1.013)",0.347
+adjusted prevalence ratio (factor(year) model),national,all,2016,2021,"1.016 (1.000, 1.032)",0.054
+adjusted prevalence ratio (factor(year) model),national,all,2007,2021,"0.980 (0.962, 0.999)",0.044
+adjusted prevalence ratio (factor(year) model),sex,men,2007,2011,"0.970 (0.924, 1.018)",0.220
+adjusted prevalence ratio (factor(year) model),sex,men,2011,2016,"1.036 (0.992, 1.081)",0.112
+adjusted prevalence ratio (factor(year) model),sex,men,2016,2021,"1.002 (0.977, 1.028)",0.861
+adjusted prevalence ratio (factor(year) model),sex,men,2007,2021,"1.007 (0.974, 1.040)",0.693
+adjusted prevalence ratio (factor(year) model),sex,women,2007,2011,"0.982 (0.954, 1.011)",0.226
+adjusted prevalence ratio (factor(year) model),sex,women,2011,2016,"0.952 (0.928, 0.977)",<0.001
+adjusted prevalence ratio (factor(year) model),sex,women,2016,2021,"1.027 (1.007, 1.047)",0.007
+adjusted prevalence ratio (factor(year) model),sex,women,2007,2021,"0.960 (0.940, 0.981)",<0.001
+adjusted prevalence ratio (factor(year) model),area,rural,2007,2011,"0.999 (0.952, 1.048)",0.969
+adjusted prevalence ratio (factor(year) model),area,rural,2011,2016,"0.970 (0.929, 1.014)",0.178
+adjusted prevalence ratio (factor(year) model),area,rural,2016,2021,"1.037 (1.009, 1.064)",0.008
+adjusted prevalence ratio (factor(year) model),area,rural,2007,2021,"1.005 (0.974, 1.037)",0.763
+adjusted prevalence ratio (factor(year) model),area,urban,2007,2011,"0.969 (0.936, 1.002)",0.065
+adjusted prevalence ratio (factor(year) model),area,urban,2011,2016,"0.995 (0.966, 1.025)",0.755
+adjusted prevalence ratio (factor(year) model),area,urban,2016,2021,"1.008 (0.989, 1.028)",0.397
+adjusted prevalence ratio (factor(year) model),area,urban,2007,2021,"0.972 (0.950, 0.995)",0.020
+adjusted prevalence ratio (factor(year) model),agegrp,25-34,2007,2011,"1.006 (0.951, 1.064)",0.829
+adjusted prevalence ratio (factor(year) model),agegrp,25-34,2011,2016,"0.989 (0.942, 1.039)",0.669
+adjusted prevalence ratio (factor(year) model),agegrp,25-34,2016,2021,"1.039 (1.006, 1.073)",0.021
+adjusted prevalence ratio (factor(year) model),agegrp,25-34,2007,2021,"1.034 (0.992, 1.079)",0.113
+adjusted prevalence ratio (factor(year) model),agegrp,35-44,2007,2011,"0.942 (0.893, 0.993)",0.026
+adjusted prevalence ratio (factor(year) model),agegrp,35-44,2011,2016,"1.023 (0.973, 1.075)",0.378
+adjusted prevalence ratio (factor(year) model),agegrp,35-44,2016,2021,"1.005 (0.977, 1.034)",0.712
+adjusted prevalence ratio (factor(year) model),agegrp,35-44,2007,2021,"0.969 (0.938, 1.000)",0.052
+adjusted prevalence ratio (factor(year) model),agegrp,45-54,2007,2011,"0.961 (0.916, 1.009)",0.108
+adjusted prevalence ratio (factor(year) model),agegrp,45-54,2011,2016,"0.985 (0.940, 1.032)",0.522
+adjusted prevalence ratio (factor(year) model),agegrp,45-54,2016,2021,"1.012 (0.983, 1.042)",0.409
+adjusted prevalence ratio (factor(year) model),agegrp,45-54,2007,2021,"0.959 (0.930, 0.988)",0.006
+adjusted prevalence ratio (factor(year) model),agegrp,55-64,2007,2011,"0.990 (0.959, 1.023)",0.559
+adjusted prevalence ratio (factor(year) model),agegrp,55-64,2011,2016,"0.934 (0.903, 0.966)",<0.001
+adjusted prevalence ratio (factor(year) model),agegrp,55-64,2016,2021,"1.011 (0.978, 1.045)",0.519
+adjusted prevalence ratio (factor(year) model),agegrp,55-64,2007,2021,"0.935 (0.906, 0.965)",<0.001

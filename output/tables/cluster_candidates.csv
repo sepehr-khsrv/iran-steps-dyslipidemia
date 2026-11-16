@@ -1,0 +1,7 @@
+round,candidate,n_groups,median_size,share_size_20,note
+2007,province x i4partici1,1501,20,0.9713524317121919,93.1% of clusters have exactly 10 men and 10 women; 76.9% of cluster x sex x 10-year age cells hold 2 people; clusters per province: 50/51
+2007,province x i4partici2,727,50,NA,"i4partici2 takes values 1-20 in 99.0% of rows and is unique within cluster in 96.5% of clusters: a person serial number, not a district"
+2011,district (x1d) x cluster (i08),675,20,0.4696296296296296,"Matches the questionnaire participant code (district / cluster / household / person); 12 or 13 clusters per district, 50 districts"
+2011,district (x1d) x idnum,9838,1,0,"idnum is a running id number: mostly singletons, not a cluster"
+2011,province x cluster (i08),480,20,0.4041666666666667,Merges clusters with the same number in different districts of one province: rejected
+2011,district (x1d),50,233.5,0,Sampled county (1-5 per province): a possible first stage; not used as PSU (too few per stratum)

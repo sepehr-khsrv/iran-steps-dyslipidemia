@@ -1,0 +1,37 @@
+part,outcome,label,category,sex,sample,type,est,lower,upper,se,n_category,n,threshold,p
+distribution of fasting status (2021),fasting status,fasting status,not recorded,all,2021 analytic sample,crude weighted,3.716786506102008,2.9940630639052572,4.6056820811409285,0.40828458752172303,357,15397,NA,NA
+distribution of fasting status (2021),fasting status,fasting status,unparsable,all,2021 analytic sample,crude weighted,2.3275714478966627,1.8954685891468772,2.855312209374691,0.24321614152236506,321,15397,NA,NA
+distribution of fasting status (2021),fasting status,fasting status,implausible (< 4 h or > 20 h),all,2021 analytic sample,crude weighted,0.6151296494829002,0.416983489713244,0.9065755977573228,0.12183829613947868,91,15397,NA,NA
+distribution of fasting status (2021),fasting status,fasting status,4 to < 8 h,all,2021 analytic sample,crude weighted,0.37668333918071367,0.27576869429934553,0.5143361712725252,0.05987519394403369,68,15397,NA,NA
+distribution of fasting status (2021),fasting status,fasting status,8 to < 12 h,all,2021 analytic sample,crude weighted,40.90504210275835,39.468381917896046,42.357403462800576,0.7368919680433019,6469,15397,NA,NA
+distribution of fasting status (2021),fasting status,fasting status,12 to 20 h,all,2021 analytic sample,crude weighted,52.058786954579176,50.54940047663084,53.56442405559337,0.7690573492470028,8091,15397,NA,NA
+standardised prevalence 2021,c_tg,TG >= 150 mg/dL,all participants,all,all,standardised,38.39783366128641,37.14528111805336,39.665968366565885,0.642897489946703,NA,15397,NA,NA
+standardised prevalence 2021,c_tg,TG >= 150 mg/dL,fasting >= 8 h,all,fasting >= 8 h,standardised,38.537014359250726,37.27535638960703,39.814269844844034,0.6475400431299054,NA,14560,>= 8 h,NA
+difference (restricted minus all),c_tg,TG >= 150 mg/dL,fasting >= 8 h minus all,all,fasting >= 8 h,standardised,0.13918069796431354,-0.28847936829480875,0.5668407642234359,0.2181979207946934,NA,14560,>= 8 h,0.5235619173226835
+standardised prevalence 2021,c_tg,TG >= 150 mg/dL,fasting >= 12 h,all,fasting >= 12 h,standardised,38.60696042907999,36.86815493748679,40.37532616017664,0.8945771786805816,NA,8091,>= 12 h,NA
+difference (restricted minus all),c_tg,TG >= 150 mg/dL,fasting >= 12 h minus all,all,fasting >= 12 h,standardised,0.20912676779357753,-1.0466276292256051,1.4648811648127602,0.6407027919514918,NA,8091,>= 12 h,0.7441201122569974
+standardised prevalence 2021,c_tg,TG >= 150 mg/dL,all participants,men,all,standardised,44.646696422661655,42.720309076171986,46.589296117483094,0.9870337683520728,NA,6468,NA,NA
+standardised prevalence 2021,c_tg,TG >= 150 mg/dL,fasting >= 8 h,men,fasting >= 8 h,standardised,45.00060134465991,43.02078052561747,46.99638502945089,1.0142457975111918,NA,6119,>= 8 h,NA
+difference (restricted minus all),c_tg,TG >= 150 mg/dL,fasting >= 8 h minus all,men,fasting >= 8 h,standardised,0.3539049219982573,-0.1572741944165914,0.865084038413106,0.26081046409371017,NA,6119,>= 8 h,0.17479933661431085
+standardised prevalence 2021,c_tg,TG >= 150 mg/dL,fasting >= 12 h,men,fasting >= 12 h,standardised,44.7333805503881,41.94335106797163,47.55697438986731,1.4325748242333876,NA,3244,>= 12 h,NA
+difference (restricted minus all),c_tg,TG >= 150 mg/dL,fasting >= 12 h minus all,men,fasting >= 12 h,standardised,0.08668412772644274,-1.9368313222150895,2.110199577667975,1.0324248128551161,NA,3244,>= 12 h,0.9330868944828792
+standardised prevalence 2021,c_tg,TG >= 150 mg/dL,all participants,women,all,standardised,31.99530637906579,30.49873338468399,33.52988766703692,0.7731209111975217,NA,8929,NA,NA
+standardised prevalence 2021,c_tg,TG >= 150 mg/dL,fasting >= 8 h,women,fasting >= 8 h,standardised,31.931430031418408,30.49379641711808,33.40426763371884,0.7423138098668781,NA,8441,>= 8 h,NA
+difference (restricted minus all),c_tg,TG >= 150 mg/dL,fasting >= 8 h minus all,women,fasting >= 8 h,standardised,-0.06387634764738337,-0.7491612343744665,0.6214085390796997,0.3496415710352451,NA,8441,>= 8 h,0.855040524120129
+standardised prevalence 2021,c_tg,TG >= 150 mg/dL,fasting >= 12 h,women,fasting >= 12 h,standardised,32.36595523902943,30.294985697113507,34.508409534184196,1.0747688601427678,NA,4847,>= 12 h,NA
+difference (restricted minus all),c_tg,TG >= 150 mg/dL,fasting >= 12 h minus all,women,fasting >= 12 h,standardised,0.37064885996364083,-1.1279813517081887,1.8692790716354704,0.7646213009488103,NA,4847,>= 12 h,0.627854914901801
+standardised prevalence 2021,dys,Composite dyslipidaemia,all participants,all,all,standardised,78.0968279780253,77.02604800000495,79.1312220539947,0.5368239092291454,NA,15397,NA,NA
+standardised prevalence 2021,dys,Composite dyslipidaemia,fasting >= 8 h,all,fasting >= 8 h,standardised,77.79964465235261,76.68735083499479,78.87348881151884,0.5574671385965242,NA,14560,>= 8 h,NA
+difference (restricted minus all),dys,Composite dyslipidaemia,fasting >= 8 h minus all,all,fasting >= 8 h,standardised,-0.297183325672691,-0.5619780860709331,-0.032388565274448944,0.1351018500783226,NA,14560,>= 8 h,0.027828299235984517
+standardised prevalence 2021,dys,Composite dyslipidaemia,fasting >= 12 h,all,fasting >= 12 h,standardised,77.61891290963443,76.05621469691182,79.10763742946084,0.7780717410644136,NA,8091,>= 12 h,NA
+difference (restricted minus all),dys,Composite dyslipidaemia,fasting >= 12 h minus all,all,fasting >= 12 h,standardised,-0.47791506839087106,-1.5399082746800095,0.5840781378982673,0.5418432250112787,NA,8091,>= 12 h,0.3777674818436578
+standardised prevalence 2021,dys,Composite dyslipidaemia,all participants,men,all,standardised,74.81919289792675,73.11979348776113,76.44576347358559,0.848227705001014,NA,6468,NA,NA
+standardised prevalence 2021,dys,Composite dyslipidaemia,fasting >= 8 h,men,fasting >= 8 h,standardised,74.52076405756335,72.75500923070061,76.20950081075483,0.8810105505501339,NA,6119,>= 8 h,NA
+difference (restricted minus all),dys,Composite dyslipidaemia,fasting >= 8 h minus all,men,fasting >= 8 h,standardised,-0.29842884036339967,-0.6704446162119113,0.07358693548511197,0.18980745502617638,NA,6119,>= 8 h,0.11588761390928477
+standardised prevalence 2021,dys,Composite dyslipidaemia,fasting >= 12 h,men,fasting >= 12 h,standardised,73.41152067697102,70.877802806399,75.80006311889403,1.2554067775158197,NA,3244,>= 12 h,NA
+difference (restricted minus all),dys,Composite dyslipidaemia,fasting >= 12 h minus all,men,fasting >= 12 h,standardised,-1.4076722209557317,-3.1284702098393713,0.3131257679279078,0.8779742905773142,NA,3244,>= 12 h,0.10886440480759135
+standardised prevalence 2021,dys,Composite dyslipidaemia,all participants,women,all,standardised,81.42424706299963,80.14862103614803,82.63566186611547,0.6341176535649776,NA,8929,NA,NA
+standardised prevalence 2021,dys,Composite dyslipidaemia,fasting >= 8 h,women,fasting >= 8 h,standardised,81.12487656464715,79.80534540243852,82.37722779164649,0.6557454499718035,NA,8441,>= 8 h,NA
+difference (restricted minus all),dys,Composite dyslipidaemia,fasting >= 8 h minus all,women,fasting >= 8 h,standardised,-0.29937049835247365,-0.64595710366809,0.04721610696314266,0.1768331500218613,NA,8441,>= 8 h,0.09046410534835422
+standardised prevalence 2021,dys,Composite dyslipidaemia,fasting >= 12 h,women,fasting >= 12 h,standardised,81.88308737103473,80.1171605214935,83.52442443131174,0.8685024016565013,NA,4847,>= 12 h,NA
+difference (restricted minus all),dys,Composite dyslipidaemia,fasting >= 12 h minus all,women,fasting >= 12 h,standardised,0.4588403080351071,-0.7587452564911807,1.676425872561395,0.6212285399785138,NA,4847,>= 12 h,0.4601490360387103

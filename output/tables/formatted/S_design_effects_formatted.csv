@@ -1,0 +1,73 @@
+analysis,level,round,type,n,se,deff,n_psu,n_strata,kish_deff_weights
+agegrp,25-34,2007,crude weighted,4104,1.27,3.34,1432,58,3.70
+agegrp,25-34,2011,crude weighted,1107,1.71,1.66,641,59,1.91
+agegrp,25-34,2016,crude weighted,4537,0.79,1.44,2850,60,1.42
+agegrp,25-34,2021,crude weighted,3542,0.98,1.87,2899,62,2.00
+agegrp,25-34,2007,standardised,4104,1.28,3.45,1432,58,3.70
+agegrp,25-34,2011,standardised,1107,1.66,1.56,641,59,1.91
+agegrp,25-34,2016,standardised,4537,0.82,1.57,2850,60,1.42
+agegrp,25-34,2021,standardised,3542,1.03,2.03,2899,62,2.00
+agegrp,35-44,2007,crude weighted,4754,1.00,3.16,1432,58,3.70
+agegrp,35-44,2011,crude weighted,877,1.86,1.71,641,59,1.91
+agegrp,35-44,2016,crude weighted,4593,0.73,1.47,2850,60,1.42
+agegrp,35-44,2021,crude weighted,4459,0.89,2.19,2899,62,2.00
+agegrp,35-44,2007,standardised,4754,0.99,3.16,1432,58,3.70
+agegrp,35-44,2011,standardised,877,1.81,1.63,641,59,1.91
+agegrp,35-44,2016,standardised,4593,0.76,1.58,2850,60,1.42
+agegrp,35-44,2021,standardised,4459,0.92,2.31,2899,62,2.00
+agegrp,45-54,2007,crude weighted,4888,0.92,3.00,1432,58,3.70
+agegrp,45-54,2011,crude weighted,917,1.79,1.85,641,59,1.91
+agegrp,45-54,2016,crude weighted,4098,0.79,1.56,2850,60,1.42
+agegrp,45-54,2021,crude weighted,4090,0.87,2.00,2899,62,2.00
+agegrp,45-54,2007,standardised,4888,0.94,3.11,1432,58,3.70
+agegrp,45-54,2011,standardised,917,1.71,1.69,641,59,1.91
+agegrp,45-54,2016,standardised,4098,0.80,1.61,2850,60,1.42
+agegrp,45-54,2021,standardised,4090,0.90,2.08,2899,62,2.00
+agegrp,55-64,2007,crude weighted,4761,0.86,2.68,1432,58,3.70
+agegrp,55-64,2011,crude weighted,1410,1.09,1.25,641,59,1.91
+agegrp,55-64,2016,crude weighted,3259,0.89,1.51,2850,60,1.42
+agegrp,55-64,2021,crude weighted,3306,0.99,2.00,2899,62,2.00
+agegrp,55-64,2007,standardised,4761,0.92,3.07,1432,58,3.70
+agegrp,55-64,2011,standardised,1410,1.11,1.26,641,59,1.91
+agegrp,55-64,2016,standardised,3259,0.90,1.54,2850,60,1.42
+agegrp,55-64,2021,standardised,3306,1.00,2.01,2899,62,2.00
+area,rural,2007,crude weighted,8121,1.01,4.53,1432,58,3.70
+area,rural,2011,crude weighted,1451,1.59,2.02,641,59,1.91
+area,rural,2016,crude weighted,5656,0.71,1.49,2850,60,1.42
+area,rural,2021,crude weighted,4995,0.74,1.57,2899,62,2.00
+area,rural,2007,standardised,8121,0.96,4.12,1432,58,3.70
+area,rural,2011,standardised,1451,1.61,2.05,641,59,1.91
+area,rural,2016,standardised,5656,0.73,1.55,2850,60,1.42
+area,rural,2021,standardised,4995,0.80,1.76,2899,62,2.00
+area,urban,2007,crude weighted,10386,0.80,4.18,1432,58,3.70
+area,urban,2011,crude weighted,2860,1.11,2.03,641,59,1.91
+area,urban,2016,crude weighted,10831,0.50,1.63,2850,60,1.42
+area,urban,2021,crude weighted,10402,0.59,2.24,2899,62,2.00
+area,urban,2007,standardised,10386,0.74,3.59,1432,58,3.70
+area,urban,2011,standardised,2860,1.07,1.91,641,59,1.91
+area,urban,2016,standardised,10831,0.54,1.81,2850,60,1.42
+area,urban,2021,standardised,10402,0.66,2.70,2899,62,2.00
+national,all,2007,crude weighted,18507,0.64,4.56,1432,58,3.70
+national,all,2011,crude weighted,4311,0.93,2.12,641,59,1.91
+national,all,2016,crude weighted,16487,0.41,1.60,2850,60,1.42
+national,all,2021,crude weighted,15397,0.48,2.16,2899,62,2.00
+national,all,2007,standardised,18507,0.61,4.16,1432,58,3.70
+national,all,2011,standardised,4311,0.90,2.01,641,59,1.91
+national,all,2016,standardised,16487,0.44,1.83,2850,60,1.42
+national,all,2021,standardised,15397,0.54,2.59,2899,62,2.00
+sex,men,2007,crude weighted,8890,1.00,4.59,1432,58,3.70
+sex,men,2011,crude weighted,1673,1.52,1.90,641,59,1.91
+sex,men,2016,crude weighted,7567,0.59,1.41,2850,60,1.42
+sex,men,2021,crude weighted,6468,0.76,2.02,2899,62,2.00
+sex,men,2007,standardised,8890,0.97,4.34,1432,58,3.70
+sex,men,2011,standardised,1673,1.47,1.79,641,59,1.91
+sex,men,2016,standardised,7567,0.64,1.66,2850,60,1.42
+sex,men,2021,standardised,6468,0.85,2.47,2899,62,2.00
+sex,women,2007,crude weighted,9617,0.73,3.88,1432,58,3.70
+sex,women,2011,crude weighted,2638,0.98,1.81,641,59,1.91
+sex,women,2016,crude weighted,8920,0.53,1.58,2850,60,1.42
+sex,women,2021,crude weighted,8929,0.59,2.13,2899,62,2.00
+sex,women,2007,standardised,9617,0.74,3.98,1432,58,3.70
+sex,women,2011,standardised,2638,1.02,1.92,641,59,1.91
+sex,women,2016,standardised,8920,0.57,1.74,2850,60,1.42
+sex,women,2021,standardised,8929,0.63,2.37,2899,62,2.00
